@@ -13,6 +13,10 @@ int. tim_min(int* a, int n)
 		// ma lenh ham Tim min
 		
 }
+void print_value(int* a, int n)
+{
+		// ma lenh ham in gia tri
+}
 int. tim_main()
 {
 		cout << "my function";
